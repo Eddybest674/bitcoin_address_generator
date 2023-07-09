@@ -1,0 +1,15 @@
+{
+    "require": {
+      "bitwasp/bitcoin": "^0.3"
+       
+      
+    },
+    "replace": {
+      "rgooding/protobuf-php": "*"
+    }
+  }
+  
+  
+  
+  
+  
